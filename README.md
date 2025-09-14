@@ -42,7 +42,9 @@
 
 ---
 
-![snake animation](https://raw.githubusercontent.com/sangwon02/sangwon02/output/dist/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github.com/sangwon02/sangwon02/blob/output/github-snake-dark.svg">
+</div>
 
 ---
 
