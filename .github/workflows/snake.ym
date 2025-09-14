@@ -1,11 +1,15 @@
+# 잔디먹는 뱀!!!!
+
 name: generate animation
 
 on:
   # run automatically every 24 hours
   schedule:
+    #24시간마다 한 번
     - cron: "0 */24 * * *" 
   
   # allows to manually run the job at any time
+  # 자동으로 action이 실행되도록 함
   workflow_dispatch:
   
   # run on every push on the master branch
@@ -13,7 +17,6 @@ on:
     branches:
     - master
     
-  
 
 jobs:
   generate:
@@ -25,11 +28,11 @@ jobs:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: {sangwon02}
+          github_user_name: sangwon02
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
+                        
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake.svg to the output branch
@@ -39,3 +42,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+출처: https://sseona814.tistory.com/12 [요리보고 저리봐도 알수없는 코딩💻:티스토리]
