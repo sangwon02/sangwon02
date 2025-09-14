@@ -43,11 +43,11 @@
 ---
 
 <div align="center">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sangwon02&utm_content=line">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sangwon02&utm_content=farm">
     <img
-      src="https://render.gitanimals.org/lines/sangwon02"
+      src="https://render.gitanimals.org/farms/sangwon02"
       width="600"
-      height="120"
+      height="300"
     />
   </a>
 </div>
