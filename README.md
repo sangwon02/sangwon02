@@ -43,6 +43,12 @@
 ---
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/sangwon02/sangwon02/garden_output/garden.svg">
+</div>
+
+---
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/sangwon02/sangwon02/output/github-contribution-grid-snake-dark.svg">
 </div>
 
