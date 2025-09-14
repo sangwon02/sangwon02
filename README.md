@@ -43,7 +43,13 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sangwon02/sangwon02/city_output/contributor-city.svg">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sangwon02&utm_content=line">
+    <img
+      src="https://render.gitanimals.org/lines/sangwon02"
+      width="600"
+      height="120"
+    />
+  </a>
 </div>
 ---
 
@@ -52,4 +58,3 @@
 </div>
 
 ---
-
