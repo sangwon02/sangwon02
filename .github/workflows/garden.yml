@@ -1,9 +1,8 @@
-# GitHub Garden Action
 name: Generate Garden
 
 on:
   schedule:
-    # 12시간마다 실행
+    # 12시간마다 자동으로 실행
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
@@ -14,22 +13,17 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      # GitHub Garden Box 액션 실행 (수정된 부분)
-      - name: Generate Garden
-        uses: lo-cafe/ittp-garden@v2.0.1
+      # 새롭고 안정적인 Garden 액션
+      - name: Generate Garden SVG
+        uses: ashutosh00710/github-garden@v2.2.0
         with:
-          # 본인 GitHub 유저네임을 자동으로 가져옵니다
-          username: ${{ github.repository_owner }}
-          # 생성될 이미지 파일 이름
-          garden_svg: garden.svg
+          user_name: ${{ github.repository_owner }}
 
-      # 생성된 이미지를 garden_output 브랜치에 푸시
-      - name: Deploy
+      # 생성된 garden.svg 파일을 garden_output 브랜치로 푸시
+      - name: Deploy Garden
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          # 이미지가 저장될 브랜치 이름
           target_branch: garden_output
-          # 푸시할 파일이 있는 폴더 (현재 폴더)
           build_dir: .
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
