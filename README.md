@@ -43,9 +43,8 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sangwon02/sangwon02/garden_output/garden.svg">
+  <img src="https://raw.githubusercontent.com/sangwon02/sangwon02/city_output/contributor-city.svg">
 </div>
-
 ---
 
 <div align="center">
