@@ -42,6 +42,8 @@
 
 ---
 
+## 🏡 Wondy's Farm
+
 <div align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sangwon02&utm_content=farm">
     <img
@@ -51,8 +53,10 @@
     />
   </a>
 </div>
+
 ---
 
+## 🐛 Wondy's Commit
 <div align="center">
   <img src="https://raw.githubusercontent.com/sangwon02/sangwon02/output/github-contribution-grid-snake-dark.svg">
 </div>
