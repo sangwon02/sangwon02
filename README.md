@@ -42,3 +42,7 @@
 
 ---
 
+![snake animation](https://github.com/sangwon02/sangwon02/blob/output/dist/github-contribution-grid-snake.svg)
+
+---
+
