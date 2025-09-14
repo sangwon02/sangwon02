@@ -14,9 +14,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      # GitHub Garden Box 액션 실행
+      # GitHub Garden Box 액션 실행 (수정된 부분)
       - name: Generate Garden
-        uses: ittp/ittp-garden@v2.0.1
+        uses: lo-cafe/ittp-garden@v2.0.1
         with:
           # 본인 GitHub 유저네임을 자동으로 가져옵니다
           username: ${{ github.repository_owner }}
@@ -32,4 +32,4 @@ jobs:
           # 푸시할 파일이 있는 폴더 (현재 폴더)
           build_dir: .
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
