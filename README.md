@@ -22,9 +22,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sangwon02&theme=calm" width="400"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangwon02&layout=compact&theme=calm" width="400"/>
-</p>
 
 ---
 
