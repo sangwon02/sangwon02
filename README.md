@@ -1,4 +1,3 @@
-## 기초가 탄탄한 개발자 되기!
 
 <p align="center">
   <a href="https://github.com/sangwon02">
