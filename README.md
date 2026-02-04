@@ -13,27 +13,6 @@
 
 ---
 
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sangwon02&theme=tokyonight&cache_buster=12345" width="400"/>
-</p>
-
----
-
-## 🏡 Wondy's Farm
-
-<div align="center">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sangwon02&utm_content=farm">
-    <img
-      src="https://render.gitanimals.org/farms/sangwon02"
-      width="600"
-      height="300"
-    />
-  </a>
-</div>
-
----
 
 ## 🐛 Wondy's Commit
 
