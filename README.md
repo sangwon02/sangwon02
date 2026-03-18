@@ -1,4 +1,3 @@
-
 <p align="center">
   <a href="https://sangwon02.tistory.com/">
     <img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=tistory&logoColor=white"/>
@@ -10,11 +9,14 @@
 
 ---
 
-
 ## 🐛 Wondy's Commit
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/sangwon02/sangwon02/output/github-contribution-grid-snake-dark.svg">
+  
+  <br/>
+  
+  <img src="https://streak-stats.demolab.com?user=sangwon02&theme=dark&hide_border=true">
 </div>
 
 ---
