@@ -5,6 +5,9 @@
   <a href="mailto:sangwon020214@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://abrupt-tuna-3f8.notion.site/162f70b413ed80219284dafac34826d1?pvs=74">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  </a>
 </p>
 
 ---
