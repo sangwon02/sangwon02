@@ -18,8 +18,6 @@
   <img src="https://raw.githubusercontent.com/sangwon02/sangwon02/output/github-contribution-grid-snake-dark.svg">
   
   <br/>
-  
-  <img src="https://streak-stats.demolab.com?user=sangwon02&theme=dark&hide_border=true">
 </div>
 
 ---
